@@ -1,0 +1,2 @@
+# This is a research on the game NIM, a classical board game. 
+# Using the bitwise operator XOR, we can determine if a game1state is winnable, and play optimally by pushing a game state unwinnable to the opponent. 
